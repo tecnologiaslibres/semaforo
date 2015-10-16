@@ -1,3 +1,6 @@
+# Escrito por Mauro Javier Silva, año 2015
+# Programa semaforo para arduino
+
 // Declaramos la variable para el pin del boton
 const int boton = 8;
 //Defino semaforo 1
